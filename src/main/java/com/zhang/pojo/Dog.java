@@ -7,7 +7,5 @@ public class Dog {
     void show(){
         System.out.println("master test");
     }
-    void show(){
-        System.out.println("hot-fix test");
-    }
+
 }
