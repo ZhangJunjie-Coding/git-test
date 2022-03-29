@@ -6,5 +6,7 @@ public class Dog {
     private String color;
     void show(){
         System.out.println("master test");
+        System.out.println("edit in gitHub");
+         
     }
 }
