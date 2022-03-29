@@ -7,5 +7,4 @@ public class Dog {
     void show(){
         System.out.println("master test");
     }
-
 }
